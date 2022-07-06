@@ -1,6 +1,9 @@
 body{
     font-family: 'Quintessential', cursive;
 }
+body{
+    margin: 0px;
+}
 .image{
     background-image: url(https://muslimgiving-production-cdn.azureedge.net/muslimgiving-production/public/campaign/2035/gallery/6e3bc198233f054703409ba0f0d1de80-5d872e8ea9c06a5e93b2a9bdba666dde.jpeg);
     background-size: 1300px;
@@ -93,8 +96,9 @@ body{
     display: flex;
 }
 .adjust-area-img{
+    padding-right: 20%;
     margin-left: 5%;
-    width: 50%;
+    width: 40%;
 }
 .last-part{
     text-align: center;
@@ -112,4 +116,9 @@ body{
     background-color: rgb(213, 13, 13);
     color: white;
     padding: 10px 30px;
+}
+.footer-style{
+    text-align: center;
+    height: 150px;
+    background-color: black;
 }
