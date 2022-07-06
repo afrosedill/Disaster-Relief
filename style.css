@@ -2,7 +2,7 @@ body{
     font-family: 'Quintessential', cursive;
 }
 .image{
-    background-image: url(images/2020-06-29T000000Z_1771225044_RC2XIH9CTUOB_RTRMADP_3_INDIA-FLOODS.webp);
+    background-image: url(https://muslimgiving-production-cdn.azureedge.net/muslimgiving-production/public/campaign/2035/gallery/6e3bc198233f054703409ba0f0d1de80-5d872e8ea9c06a5e93b2a9bdba666dde.jpeg);
     background-size: 1300px;
     width: 1200px;
     height: 500px;
@@ -86,4 +86,13 @@ body{
 .box4{
     margin-right: 10%;
     background-color: lightyellow;
+}
+.adjust-area{
+    padding-left: 5%;
+    margin-bottom: 40px;
+    display: flex;
+}
+.adjust-area-img{
+    margin-left: 5%;
+    width: 50%;
 }
