@@ -53,6 +53,37 @@ body{
     padding-left: 80px;
     padding-right: 80px;
 }
-.padding{
+.margin{
     margin-bottom: 150px;
+}
+.box-area{
+    text-align: center;
+}
+.flexible-container{
+    display: flex;
+    position: relative;
+    margin-bottom: 100px;
+}
+.boxes{
+    text-align: left;
+    width: 30%;
+    height: 300px;
+    padding: 20px;
+}
+.icon-size{
+    width: 20%;
+    height: 20%;
+}
+.box2{
+    margin-left: 10%;
+    background-color: lightblue;
+}
+.box3{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightpink;
+}
+.box4{
+    margin-right: 10%;
+    background-color: lightyellow;
 }
