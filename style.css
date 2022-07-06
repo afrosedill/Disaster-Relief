@@ -1,0 +1,58 @@
+body{
+    font-family: 'Quintessential', cursive;
+}
+.image{
+    background-image: url(images/2020-06-29T000000Z_1771225044_RC2XIH9CTUOB_RTRMADP_3_INDIA-FLOODS.webp);
+    background-size: 1300px;
+    width: 1200px;
+    height: 500px;
+    background-position: center;
+    padding: 17px 15px 17px 15px ;
+    margin-bottom: 80px;
+}
+.header-font{
+    font-size: 50px;
+}
+.centered{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.donation-part{
+    text-align: center;
+}
+.box{
+    display: inline-block;
+   position: relative;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   margin-left: 10px;
+   width: 5%;
+   height: 30px;
+   background-color: aliceblue;
+}
+.box1{
+    background-color: rgb(253, 136, 136);
+    border: 2px solid red;
+}
+#position{
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.padding{
+    margin-bottom: 150px;
+}
