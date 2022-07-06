@@ -96,3 +96,20 @@ body{
     margin-left: 5%;
     width: 50%;
 }
+.last-part{
+    text-align: center;
+}
+.form-background{
+     background-position: center;
+    display: flex;
+    background-color: bisque;
+    width: 800px;
+    height: 200px;
+}
+.button-background{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: rgb(213, 13, 13);
+    color: white;
+    padding: 10px 30px;
+}
